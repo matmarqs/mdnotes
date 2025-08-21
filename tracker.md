@@ -9,13 +9,13 @@
   - [ ] Resolver 1 máquina (Easy)
   - [ ] Completar um módulo do HackTheBox Academy: *Windows Command Line*
 - **pwn.college**
-  - [ ] Completar 1 módulo: *Computing 101 – Hello Hackers*, 4 challenges
+  - [X] Completar 1 módulo: *Computing 101 – Hello Hackers*, 4 challenges
 - **SNES**
   - [ ] Assistir 2 vídeos da playlist de SNES/MegaDrive:
     - [Introdução a ASSEMBLY de SNES e MegaDrive](https://www.youtube.com/watch?v=Zkn2fgbFQvg&list=PLLFRf_pkM7b6Vi0ehPPovl1gQ5ubHTy5P&index=35&t=372s)  
     - [Como Usar um EDITOR HEXADECIMAL](https://www.youtube.com/watch?v=g7jgPTPGegU&list=PLLFRf_pkM7b6Vi0ehPPovl1gQ5ubHTy5P&index=36&pp=iAQB)
 - **LeetCode**
-  - [ ] Resolver 1 problema (Médio) durante o horário de trabalho na segunda-feira
+  - [X] Resolver 1 problema (Médio) durante o horário de trabalho na segunda-feira
 
 ---
 
@@ -23,13 +23,13 @@
 
 ### 🔹 HTB (Foco principal – 70%)
 - **Carga:** 12h/semana (3h por dia: segunda, terça, quarta, sexta)
-- **Status:**
-- **Notas:**
+- **Status:** Em progresso
+- **Notas:** Já li bastante do Windows Command Line, e assisti vídeos do IppSec
 
 ### 🔹 pwn.college (Foco médio – 10%)
-- **Carga:** 2h/semana (quinta-feira à noite)
-- **Status:**
-- **Notas:**
+- **Carga:** 2h/semana (quinta-feira à tarde, quando chegar do GN)
+- **Status:** Completo :white_check_mark:
+- **Notas:** Fiz todo o Hello Hackers, e um pouco do Assembly Crash Course
 
 ### 🔹 SNES (Foco baixo – 10%)
 - **Carga:** sábado/domingo no tempo livre
@@ -38,8 +38,8 @@
 
 ### 🔹 LeetCode (Foco baixíssimo – 5%)
 - **Carga:** segunda-feira, horário de trabalho  
-- **Status:**
-- **Notas:**
+- **Status:** Completo :white_check_mark:
+- **Notas:** Resolvi um leetcode da semana, e também comecei (de novo) o Advent of Code 2024
 
 ---
 
