@@ -1,20 +1,27 @@
 # 📚 Estudo da Semana
 
-**Semana:** 01/09/2025 -> 07/09/2025
+**Semana:** 15/09/2025 -> 21/09/2025
 
 ---
 
 ## ✅ Objetivos da Semana
 
 - **HTB**
-  - [ ] Assistir 4 vídeos do IppSec (à noite).
-  - [ ] Completar módulos do HackTheBox Academy: *Command Injection*, *Penetration Testing Process* e *Information Gathering*
+  - [ ] Assistir 4 vídeos do IppSec:
+    - [ ] **Kotarak**
+    - [ ] **Tartarsauce**
+    - [ ] **Blue**
+    - [ ] **Devel**.
+  - [ ] Módulos do HackTheBox Academy:
+    - [ ] **Footprinting**
+    - [ ] **Information Gathering - Web Edition**.
 - **pwn.college**
-  - [ ] Completar 1 módulo: *Assembly Crash Course* (falta pouco) e *Debugging Refresher*
+  - [ ] Completar módulos:
+    - [ ] **Building a Web Server**
 - **SNES**
   - [ ] Assistir 2 vídeos da playlist de SNES/MegaDrive:
-    - [Assembly de Snes. Vamos Aprender Várias Instruções. Movendo Dados.](https://www.youtube.com/watch?v=6IzgQz9TWBc)  
-    - [Matemática em Jogos de Snes. Começou a Complicar!](https://www.youtube.com/watch?v=SZHr_YH877s)
+    - [ ] [O Mega Drive é 64 BITS? E o SNES? Entre e Veja a Resposta.](https://www.youtube.com/watch?v=dZvp6X_dRuc)
+    - [ ] [Big Endian e Little Endian em Programação. Exemplos no Snes e no Mega.](https://www.youtube.com/watch?v=ggz24JKI0VQ)
 
 ---
 
@@ -22,23 +29,23 @@
 
 ### 🔹 HTB (Foco principal – 70%)
 - **Carga:** 12h/semana (3h por dia: segunda, terça, quarta, sexta)
-- **Status:** 
-- **Notas:** 
+- **Status:**
+- **Notas:**
 
-### 🔹 pwn.college (Foco médio – 10%)
+### 🔹 pwn.college (Foco médio – 20%)
 - **Carga:** 2h/semana (quinta-feira à tarde, quando chegar do GN)
-- **Status:** 
-- **Notas:** 
+- **Status:**
+- **Notas:**
 
 ### 🔹 SNES (Foco baixo – 10%)
 - **Carga:** sábado/domingo no tempo livre
-- **Status:** 
-- **Notas:** 
+- **Status:**
+- **Notas:**
 
 ---
 
 ## 📝 Reflexão da Semana
 *(Tire 15 minutos no domingo)*  
-- **O que consegui bem:** 
-- **O que faltou:** 
-- **O que ajustar para semana que vem:** 
+- **O que consegui bem:**
+- **O que faltou:**
+- **O que ajustar para semana que vem:**
