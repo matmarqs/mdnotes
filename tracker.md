@@ -1,6 +1,6 @@
 # 📚 Estudo da Semana
 
-**Semana:** 15/09/2025 -> 21/09/2025
+**Semana:** 22/09/2025 -> 28/09/2025
 
 ---
 
@@ -8,20 +8,21 @@
 
 - **HTB**
   - [ ] Assistir 4 vídeos do IppSec:
-    - [ ] **Kotarak**
-    - [ ] **Tartarsauce**
-    - [ ] **Blue**
-    - [ ] **Devel**.
+    - [ ] **Optimum**
+    - [ ] **Bastard**
+    - [ ] **Silo**
+    - [ ] **Bounty**.
   - [ ] Módulos do HackTheBox Academy:
     - [ ] **Footprinting**
     - [ ] **Information Gathering - Web Edition**.
 - **pwn.college**
-  - [ ] Completar módulos:
-    - [ ] **Building a Web Server**
+  - [ ] Completar módulo:
+    - [ ] **Playing With Programs -- Dealing with Data**
 - **SNES**
-  - [ ] Assistir 2 vídeos da playlist de SNES/MegaDrive:
-    - [ ] [O Mega Drive é 64 BITS? E o SNES? Entre e Veja a Resposta.](https://www.youtube.com/watch?v=dZvp6X_dRuc)
-    - [ ] [Big Endian e Little Endian em Programação. Exemplos no Snes e no Mega.](https://www.youtube.com/watch?v=ggz24JKI0VQ)
+  - [ ] Assistir 3 vídeos da playlist de SNES/MegaDrive:
+    - [ ] [BUGS NO SNES E COMO UM ASSEMBLER FUNCIONA?](https://www.youtube.com/watch?v=CMLvG6GfE-M)
+    - [ ] [Overflow em Programação? Explicando esse Negócio com Snes e Mega Drive.](https://www.youtube.com/watch?v=BUeSSXtejQo)
+    - [ ] [Ambiente de Programação para SNES e MEGA DRIVE em 2022](https://www.youtube.com/watch?v=rgt7bDrmv3o)
 
 ---
 
