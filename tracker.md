@@ -1,6 +1,6 @@
 # 📚 Estudo da Semana
 
-**Semana:** 22/09/2025 -> 28/09/2025
+**Semana:** 29/09/2025 -> 05/10/2025
 
 ---
 
@@ -8,21 +8,20 @@
 
 - **HTB**
   - [ ] Assistir 4 vídeos do IppSec:
-    - [ ] **Optimum**
-    - [ ] **Bastard**
-    - [ ] **Silo**
-    - [ ] **Bounty**.
+    - [ ] **Jerry**
+    - [ ] **Jeeves**
+    - [ ] **Bart**
+    - [ ] **Tally**.
   - [ ] Módulos do HackTheBox Academy:
-    - [ ] **Footprinting**
-    - [ ] **Information Gathering - Web Edition**.
+    - [ ] **Vulnerability Assessment**
+    - [ ] **Password Attacks**.
 - **pwn.college**
   - [ ] Completar módulo:
-    - [ ] **Playing With Programs -- Dealing with Data**
+    - [ ] **Playing With Programs -- Talking Web** (pode ser 18/36 challenges, se não der tempo)
 - **SNES**
-  - [ ] Assistir 3 vídeos da playlist de SNES/MegaDrive:
-    - [ ] [BUGS NO SNES E COMO UM ASSEMBLER FUNCIONA?](https://www.youtube.com/watch?v=CMLvG6GfE-M)
-    - [ ] [Overflow em Programação? Explicando esse Negócio com Snes e Mega Drive.](https://www.youtube.com/watch?v=BUeSSXtejQo)
-    - [ ] [Ambiente de Programação para SNES e MEGA DRIVE em 2022](https://www.youtube.com/watch?v=rgt7bDrmv3o)
+  - [ ] Assistir vídeos da playlist de SNES/MegaDrive:
+    - [ ] [Introdução aos PULOS em Assembly de Snes e Mega Drive.](https://www.youtube.com/watch?v=pYYPy8FjQ8E)
+    - [ ] [Comparando coisas no SNES e no MEGA DRIVE.](https://www.youtube.com/watch?v=5ldeNV1cLM0)
 
 ---
 
