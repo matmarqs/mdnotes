@@ -1,34 +1,27 @@
 # 📚 Estudo da Semana
 
-**Semana:** 06/10/2025 -> 12/10/2025
+**Semana:** 13/10/2025 -> 19/10/2025
 
 ---
 
 ## ✅ Objetivos da Semana
 
 - **HTB**
-  - [ ] Assistir 4 vídeos do IppSec:
-    - [ ] **Bart**
-    - [ ] **Tally**.
-    - [ ] **Active**
-    - [ ] **Jail**
-  - [ ] Módulos do HackTheBox Academy:
-    - [ ] **Vulnerability Assessment**
-    - [ ] **Password Attacks**.
-  - [ ] Ou posso fazer módulos do TryHackMe
+  - Assistir 4 vídeos do IppSec:
+    - [ ] **Falafel**
+    - [ ] **DevOops**.
+    - [ ] **Hawk**
+    - [ ] **Conceal**
+  - Módulos do HackTheBox Academy:
+    - [ ] Terminar o  **Password Attacks**.
+    - [ ] Ler o **Vulnerability Assessment**
+    - [ ] Se der tempo, começar **Attacking Common Services**
 - **pwn.college**
-  - Completar módulo:
-    - [ ] **Playing With Programs -- Talking Web**
-- **SNES**: (Cumprir apenas 2 dos listados abaixo)
-  - Decidi que chegou a hora de botar a mão na massa. Não vale a pena ficar vendo vídeo da playlist sem objetivo por trás. A ideia é brincar com o `bsnes-plus`, `bass` e começar a fazer engenharia reversa do Megaman X. Coisas que posso fazer:
-    - [ ] Montar o ambiente de desenvolvimento para SNES, e testar código Assembly 65c816.
-    - [ ] Utilizar o `bsnes-plus`  para ver o fluxo do jogo.
-    - [ ] Abrir e inspecionar a ROM de Megaman X.
-  - Os únicos vídeos que ainda são interessantes de ver na playlist são
-    - [ ] [Os segredos dos cartuchos do SNES: LoRom e HiRom](https://www.youtube.com/watch?v=XDfSwl_SVkI)
-    - [ ] [Desvendando os segredos dos cartuchos HiROM de SNES](https://www.youtube.com/watch?v=ONiQ9sJV1Ig)
-    - [ ] [O cartucho de Chrono Trigger do SNES: uma análise técnica](https://www.youtube.com/watch?v=lwRQVh5vp6U)
-    - [ ] [A Anatomia de um Cartucho: Mapeamento LoRom do SNES](https://www.youtube.com/watch?v=2np9c-MpUik)
+  - [ ] **Playing With Programs -- Program Misuse**
+  - [ ] Se der tempo, rushar o **Linux Luminarium**
+- **PowerShell**: Começar a dar uma olhada nos seguintes challenges.
+  - [ ] [UnderTheWire](underthewire.tech) - Century
+  - [ ] [PSKoans](https://github.com/vexx32/PSKoans): I need to install a Windows VM.
 
 ---
 
@@ -44,7 +37,7 @@
 - **Status:**
 - **Notas:**
 
-### 🔹 SNES (Foco baixo – 10%)
+### 🔹 PowerShell (Foco baixo – 10%)
 - **Carga:** sábado/domingo no tempo livre
 - **Status:**
 - **Notas:**
