@@ -13,15 +13,13 @@
     - [ ] **Hawk**
     - [ ] **Conceal**
   - Módulos do HackTheBox Academy:
-    - [ ] Terminar o  **Password Attacks**.
-    - [ ] Ler o **Vulnerability Assessment**
-    - [ ] Se der tempo, começar **Attacking Common Services**
+    - [ ] Terminar **Attacking Common Services**
+    - [ ] Ler **Vulnerability Assessment**
 - **pwn.college**
-  - [ ] **Playing With Programs -- Program Misuse**
-  - [ ] Se der tempo, rushar o **Linux Luminarium**
-- **PowerShell**: Começar a dar uma olhada nos seguintes challenges.
-  - [ ] [UnderTheWire](underthewire.tech) - Century
-  - [ ] [PSKoans](https://github.com/vexx32/PSKoans): I need to install a Windows VM.
+  - [ ] Tentar fazer pelo menos metade do **Intro to Cybersecurity -- Web Security**.
+- **PowerShell**
+  - [ ] [UnderTheWire](underthewire.tech) - Cyborg: relacionado a Active Directory.
+  - [ ] [PSKoans](https://github.com/vexx32/PSKoans): Fazer 5 Koans.
 
 ---
 
