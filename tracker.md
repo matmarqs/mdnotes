@@ -1,6 +1,6 @@
 # 📚 Estudo da Semana
 
-**Semana:** 13/10/2025 -> 19/10/2025
+**Semana:** 27/10/2025 -> 02/11/2025
 
 ---
 
@@ -8,18 +8,21 @@
 
 - **HTB**
   - Assistir 4 vídeos do IppSec:
-    - [ ] **Falafel**
-    - [ ] **DevOops**.
-    - [ ] **Hawk**
-    - [ ] **Conceal**
+    - [ ] **Irked**
+    - [ ] **Netmon**.
+    - [ ] **FriendZone**
+    - [ ] **LaCasaDePapel**
   - Módulos do HackTheBox Academy:
     - [ ] Terminar **Attacking Common Services**
     - [ ] Ler **Vulnerability Assessment**
+    - [ ] Começar outro módulo? **Active Directory Enumeration & Attacks**
 - **pwn.college**
-  - [ ] Tentar fazer pelo menos metade do **Intro to Cybersecurity -- Web Security**.
+  - [ ] Fazer pelo menos metade do **Intro to Cybersecurity -- Web Security**.
 - **PowerShell**
-  - [ ] [UnderTheWire](underthewire.tech) - Cyborg: relacionado a Active Directory.
-  - [ ] [PSKoans](https://github.com/vexx32/PSKoans): Fazer 5 Koans.
+  - [ ] Estou interessado em começar a ler How to Hack Like a Legend.
+  - Atividades Secundárias:
+    - [ ] [UnderTheWire](underthewire.tech) - Cyborg: relacionado a Active Directory.
+    - [ ] [PSKoans](https://github.com/vexx32/PSKoans): Fazer 5 Koans.
 
 ---
 
