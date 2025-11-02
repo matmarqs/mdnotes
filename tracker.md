@@ -1,47 +1,49 @@
 # 📚 Estudo da Semana
 
-**Semana:** 27/10/2025 -> 02/11/2025
+**Semana:** 03/10/2025 -> 09/11/2025
 
 ---
 
 ## ✅ Objetivos da Semana
 
+- **Portswigger Academy**
+  - [ ] Terminar o módulo de API testing (progresso atual 14/29).
 - **HTB**
   - Assistir 4 vídeos do IppSec:
-    - [ ] **Irked**
-    - [ ] **Netmon**.
     - [ ] **FriendZone**
     - [ ] **LaCasaDePapel**
+    - [ ] **Lightweight**
+    - [ ] **Networked**.
   - Módulos do HackTheBox Academy:
-    - [ ] Terminar **Attacking Common Services**
-    - [ ] Ler **Vulnerability Assessment**
-    - [ ] Começar outro módulo? **Active Directory Enumeration & Attacks**
+    - [ ] Progredir no módulo (gigante) **Active Directory Enumeration & Attacks**
 - **pwn.college**
-  - [ ] Fazer pelo menos metade do **Intro to Cybersecurity -- Web Security**.
-- **PowerShell**
-  - [ ] Estou interessado em começar a ler How to Hack Like a Legend.
-  - Atividades Secundárias:
-    - [ ] [UnderTheWire](underthewire.tech) - Cyborg: relacionado a Active Directory.
-    - [ ] [PSKoans](https://github.com/vexx32/PSKoans): Fazer 5 Koans.
+  - [ ] Progredir em **Intro to Cybersecurity -- Web Security**.
+- **Livros**:
+  - [ ] Ler (no ônibus) pelo menos dois capítulos do How to Hack like a Legend.
 
 ---
 
 ## 📊 Progresso por Área
 
-### 🔹 HTB (Foco principal – 70%)
-- **Carga:** 12h/semana (3h por dia: segunda, terça, quarta, sexta)
+### 🔹 Portswigger (Prioridade - 30%)
+- **Carga:** 4h/semana (2h por dia no trabalho: segunda, terça)
+- **Status:**
+- **Notas:** Uma vez que cumprir o objetivo do Portswigger, focar no HTB.
+
+### 🔹 HTB (Foco principal – 40%)
+- **Carga:** 6h/semana (2h por dia no trabalho: terça, quarta e quinta)
 - **Status:**
 - **Notas:**
 
-### 🔹 pwn.college (Foco médio – 20%)
-- **Carga:** 2h/semana (quinta-feira à tarde, quando chegar do GN)
+### 🔹 Livros (Foco médio – 20%)
+- **Carga:** Quando estiver no ônibus (praticamente umas 2h por dia)
 - **Status:**
-- **Notas:**
+- **Notas:** Caso seja conveniente, ler HTB ao invés de livros no ônibus. A ideia de ler livros é ir adquirindo conhecimentos aprofundados em longo prazo. Quero entender melhor redes, SOs, etc.
 
-### 🔹 PowerShell (Foco baixo – 10%)
-- **Carga:** sábado/domingo no tempo livre
+### 🔹 pwn.college (Foco baixo – 10%)
+- **Carga:** 2h/semana (sábado quando tiver tempo)
 - **Status:**
-- **Notas:**
+- **Notas:** Realmente só no fim de semana. É minha atividade de menos prioridade, mas será um objetivo de longo prazo.
 
 ---
 
